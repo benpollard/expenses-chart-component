@@ -1,5 +1,4 @@
 import Chart, { Tooltip } from "chart.js/auto";
-import "./style.css";
 
 const data = [
   {
