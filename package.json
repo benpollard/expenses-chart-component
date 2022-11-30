@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://benpollard.github.io/expenses-chart-component",
+  "homepage": "https://benpollard.github.io/expenses-chart-component/",
   "scripts": {
     "dev": "vite",
     "predeploy": "vite build",
